@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../3rdPartyClient/3rdPartyClient/3rdPartyClient.csproj" />
+  <Project Path="../BankAPI/BankAPI/BankAPI.csproj" />
+  <Project Path="../NWSDB_API/NWSDB_API/NWSDB_API.csproj" />
+  <Project Path="../CargillsPayPoint_WinForms/CargillsPayPoint_WinForms.csproj" />
+</Solution>

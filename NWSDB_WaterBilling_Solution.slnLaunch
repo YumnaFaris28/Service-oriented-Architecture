@@ -1,0 +1,53 @@
+[
+  {
+    "Name": "Run All (APIs, Web & Desktop Client)",
+    "Projects": [
+      {
+        "Path": "..\\BankAPI\\BankAPI\\BankAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\NWSDB_API\\NWSDB_API\\NWSDB_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\3rdPartyClient\\3rdPartyClient\\3rdPartyClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\CargillsPayPoint_WinForms\\CargillsPayPoint_WinForms.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Run All (APIs & Web Client)",
+    "Projects": [
+      {
+        "Path": "..\\BankAPI\\BankAPI\\BankAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\NWSDB_API\\NWSDB_API\\NWSDB_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\3rdPartyClient\\3rdPartyClient\\3rdPartyClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Run Web App & Bank API",
+    "Projects": [
+      {
+        "Path": "..\\BankAPI\\BankAPI\\BankAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\NWSDB_API\\NWSDB_API\\NWSDB_API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
